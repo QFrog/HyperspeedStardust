@@ -2,6 +2,7 @@
 
 # Description
 You play as a relief supply delivery person on a planet overtaken with war. After delivering the supplies you have to escape from the planet from the attacking enemies aircrafts.
+Found on itch.io here: https://hyper-speed-stardust.itch.io/hyper-speed-stardust
 # Gameplay Information:
 You need to dodge enemies while firing back in order to escape the planet's atmosphere. Use missiles and lasers to push through
 the fleets of enemy fighters, bombers, mines and more.
